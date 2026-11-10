@@ -1,7 +1,5 @@
 # quickdraw-jpeg
 
-[日本語の説明はこちら](README-JP.md)。
-
 Version: **0.1.1** (experimental)
 
 Created in 2026 by Kimihiko Mizutani (Kyoto University).
@@ -55,9 +53,3 @@ This project includes portions derived from QuickDrawViewer by Matthias Wiesmann
 Those portions are licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
 
 When redistributing this project, include the `LICENSE` file and retain the applicable copyright and attribution notices.
-
-## 日本語
-
-`quickdraw-jpeg`は、クラシックMacのQuickDraw PICTファイル（`.pict` / `.pic`）をJPEG画像に変換するmacOS向けコマンドラインツールです。JPEG品質や描画倍率を指定でき、フォルダ内のファイルをまとめて再帰変換することもできます。
-
-macOS 12以降とSwift 5.9以降に対応しています。ビルド方法や使い方の詳細は[日本語README](README-JP.md)をご覧ください。
